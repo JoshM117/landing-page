@@ -7,11 +7,10 @@
 }
 body{
   min-height:100vh;
-  min-width:100vh;
+  width:100%;
   display:flex;
   flex-direction:column;
-  background:pink;
-
+  background:green;
 }
 nav{
   background:red;
