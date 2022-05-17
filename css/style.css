@@ -48,12 +48,14 @@ main{
   display:flex;
   justify-content:center;
   align-items:center;
-  margin:0px -2.5rem;
+  padding-left:10px;
+  padding-right:10px;
 }
 main section:nth-child(even){
   background:grey;
 }
 .img1{
+  flex:1;
  width: 35%;
  height:180px;
 }
@@ -62,6 +64,7 @@ main section:nth-child(even){
   height:180px;
 }
 .card{
+  flex:1;
   font-size:0.9rem;
   width:35%;
   height:180px;
