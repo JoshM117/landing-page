@@ -126,7 +126,7 @@ h2{
   background-color:#E5E7EB;
 }
 .quote{
-  font-size:3.5vw;
+  font-size:3.8vw;
   font-weight:light;
   font-style: italic;
   color:#1F2937;
@@ -142,7 +142,7 @@ h2{
   display:flex;
   justify-content:center;
   align-items:center;
-  padding:2rem;
+  padding:0;
 }
 .card2{
   width:100%;
@@ -154,7 +154,7 @@ h2{
   gap:.1rem;
   padding:2.5rem 0.5rem;
   color:#F9FAF8;
-  font-size:2.3vw;
+  font-size:2.5vw;
 }
 .button2{
   width:100px;
