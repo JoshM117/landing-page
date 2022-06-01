@@ -163,6 +163,9 @@ h2{
   padding:7px 12px;
   border:1px solid black;
 }
+button a{
+color:black;
+}
 
 footer{
   background:#1F2937;
